@@ -1,6 +1,8 @@
 
-# dependencies
+# dependencies de treino
 node_modules
 variables.env
 .DS_Store
+
+
 
