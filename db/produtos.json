@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6623d747483cca8e22871ef3"},"nome":"pt1","preco":11,"imagem":""}
+{"_id":{"$oid":"6623def3483cca8e228a8096"},"nome":"mypt4","preco":444,"imagem":"BN126kHaWI.jpeg"}
+{"_id":{"$oid":"6623df21483cca8e228a9bf9"},"nome":"mypt5","preco":555,"imagem":"Y5huwKpvrb.jpeg"}
+{"_id":{"$oid":"6623e11d0062aab9978b4f51"},"nome":"mypt7","preco":777,"imagem":"cGCIMPk968.jpeg"}
+{"_id":{"$oid":"6624041d0062aab9978c07d7"},"nome":"Paulo","preco":111,"imagem":"nIvk_EnA9h.jpeg"}
